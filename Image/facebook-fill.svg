@@ -1,0 +1,28 @@
+<svg width="50" height="60" viewBox="0 0 50 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<style>
+	  svg:hover > g > rect {
+	    transition: fill 0.4s;
+			fill: #FF5300;
+		}
+
+		svg:hover > path {
+			transition: fill 0.4s;
+			fill: white;
+		}
+	</style>
+<g filter="url(#filter0_d_892_2724)">
+<rect x="11" y="10" width="40" height="40" fill="white"/>
+</g>
+<path d="M33 31.5H35.5L36.5 27.5H33V25.5C33 24.47 33 23.5 35 23.5H36.5V20.14C36.174 20.097 34.943 20 33.643 20C30.928 20 29 21.657 29 24.7V27.5H26V31.5H29V40H33V31.5Z" fill="#FF5300"/>
+<defs>
+<filter id="filter0_d_892_2724" x="0" y="0" width="50" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_892_2724"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_892_2724" result="shape"/>
+</filter>
+</defs>
+</svg>
